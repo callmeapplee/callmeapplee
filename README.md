@@ -52,7 +52,7 @@ In addition, I have a strong **Computer Science background**. I have taught CS c
 
 ---
 
-### Yandex — *iOS Developer*
+### [Yandex](https://apps.apple.com/tj/app/yandex-browser-with-alice-ai/id483693909) — *iOS Developer*
 
 📅 Jan 2021 – Jun 2022
 
